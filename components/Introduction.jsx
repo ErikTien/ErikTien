@@ -21,7 +21,7 @@ export function Introduction() {
       <div className="flex flex-col gap-5 my-auto text-center sm:text-left">
         <h1 className="text-secondary-700 text-4xl sm:text-6xl">Velkommen,</h1>
         <p>
-          Jeg heter Kari Nordmann, du kan sende meg en epost på:{" "}
+          Jeg heter Erik Tien, du kan sende meg en epost på:{" "}
           <a
             className="font-bold hover:underline"
             href="mailto:kari.nordmann@epost.no"

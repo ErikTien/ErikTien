@@ -11,11 +11,18 @@ import Image from "next/image";
 // Her definerer hvilke prosjekter vi vil vise nedenfor.
 const latestProjects = [
   {
-    title: "Overskrift",
+    title: "Overskrift6",
     description:
       "Kort forklaring av hva prosjektet omhandlet, eventuelt hvem det var for.",
     image: "/design-sprint.jpg",
     href: "/prosjekter/tilfeldig-prosjekt",
+  },
+  {
+    title: "Overskrift",
+    description:
+      "Kort forklaring av hva prosjektet omhandlet, eventuelt hvem det var for.",
+    image: "/design-sprint.jpg",
+    href: "/prosjekter/prosjekt_2",
   },
 ];
 
